@@ -1,0 +1,12 @@
+[submodule "mips-single-cycle-processor"]
+	path = mips-single-cycle-processor
+	url = https://github.com/sina-negarandeh/mips-single-cycle-processor
+[submodule "mips-multi-cycle-processor"]
+	path = mips-multi-cycle-processor
+	url = https://github.com/sina-negarandeh/mips-multi-cycle-processor
+[submodule "mips-pipeline-processor"]
+	path = mips-pipeline-processor
+	url = https://github.com/sina-negarandeh/mips-pipeline-processor
+[submodule "arm-processor"]
+	path = arm-processor
+	url = https://github.com/sina-negarandeh/arm-processor
